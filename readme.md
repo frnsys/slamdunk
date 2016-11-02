@@ -15,6 +15,7 @@ create `config.py` in the following format:
 WAIT_TIME = 60 * 10
 
 # your are.na token (visit <https://dev.are.na>)
+# (the "Personal Access Token")
 ARENA_TOKEN = 'your are.na token'
 
 # your slack webhook url;
